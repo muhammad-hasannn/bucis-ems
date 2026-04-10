@@ -89,4 +89,4 @@ g++ pbl.cpp -o program
 
 ## Context
  
-This project was submitted as **Assignment 3 (Project Based Learning)** for the **Computer Programming** course, Spring 2025 semester at BUCIS. The full course repository including all assignments and labs is available at [cp_sp25](https://github.com/muhammad-hasannn/cp_sp25).
+This project was submitted as **Assignment 3 (Project Based Learning)** for the **Computer Programming** course, Spring 2025 semester at [Bahria University](https://bahria.edu.pk/). The full course repository including all assignments and labs is available at [cp_sp25](https://github.com/muhammad-hasannn/cp_sp25).
