@@ -3,7 +3,7 @@
 A simple console-based Event Management and Ticket Booking System developed in C++.
 This project allows users to register customers, manage events, and perform ticket booking and cancellation with basic validation and file handling.
 
-This project was developed as part of **Assignment 3 (Project Based Learning)** for the *Computer Programming* course (Spring 2025).
+This project was developed as part of **Assignment 3 (Project Based Learning)** for the <i>Computer Programming course (Spring 2025)</i>.
 
 ---
 
